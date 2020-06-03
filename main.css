@@ -82,14 +82,35 @@ header {
     width: 10vw;
     height: 2.5vh;
     opacity: 1;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #6200EA;
+    letter-spacing: 2.4px;
+    font-weight: bold;
 }
 
 .down-header {
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
     height: 5vh;
-    left: 0px;
     top: 5vh;
+}
+
+.main-list{
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    font-weight: bold;
+}
+
+.top-table {
+    padding: 1.5vh 2vw;
+    font-size: 12px;
+}
+
+.table-business {
+    color: #6200EA; 
 }
 
 .logo {
