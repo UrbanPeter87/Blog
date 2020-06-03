@@ -118,3 +118,20 @@ header {
     margin-left: 20vw;
     width: 10vw; 
 }
+
+/* ==== Main ==== */
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    width: 45vw;
+
+}
+
+.main-sidebar {
+    width: 20vw;
+}
